@@ -6,7 +6,7 @@ This AI mini-project aims to **predict the annual income of Moroccan citizens** 
 
 ## 📓 Notebook
 
-The file `mini_projet_AI_LAMRANI_YOUSSEF_FAILALI_JATABI_HAYTHAM.ipynb` contains the entire development process:
+The file `mini_projet_AI.ipynb` contains the entire development process:
 
 * Dataset generation (`dataset_revenu_marocains.csv`) using simulated data
 * Data cleaning, transformation, and normalization
